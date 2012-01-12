@@ -1,0 +1,5 @@
+== Notifier
+
+Basic cookbook that sets up chef-notifier dynamically to enable
+user notifications based on user data bags
+
